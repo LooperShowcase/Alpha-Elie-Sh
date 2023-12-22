@@ -1,0 +1,40 @@
+body {
+  background-color: blueviolet;
+}
+h1 {
+  color: red;
+}
+#gaming1 {
+  background-color: rgb(255, 81, 0);
+}
+
+#gaming2 {
+  background-color: deepskyblue;
+}
+
+#gaming3 {
+  background-color: green;
+}
+#nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0f530c;
+}
+
+.bar {
+  float: left;
+}
+
+.bar a {
+  display: block;
+  color: rgb(230, 230, 10);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.bar a:hover {
+  background-color: #ed0808;
+}
